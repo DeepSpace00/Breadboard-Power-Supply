@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b84480f7-2a4a-488c-b5cb-7253df0ad470")
+	(paper "USLetter")
+	(title_block
+		(title "Breadboard Power Supply")
+		(date "2024-09-25")
+		(comment 2 "PROTOTYPE")
+		(comment 3 "2024")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
