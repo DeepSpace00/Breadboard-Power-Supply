@@ -428,7 +428,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "DSE-Power"
+    ]
   },
   "meta": {
     "filename": "breadboard-power-supply.kicad_pro",
