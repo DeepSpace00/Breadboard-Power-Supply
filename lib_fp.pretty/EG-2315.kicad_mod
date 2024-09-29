@@ -1,0 +1,234 @@
+(footprint "EG-2315"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -3.2 -4.35 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e5eb582b-19b6-402f-accc-f8deec8f5d08")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Value" "EG2315"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ebfab408-9301-4e0c-b7ad-78b69364d6d8")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.05)
+			)
+		)
+	)
+	(property "Footprint" "DSE-Switches:EG-2315"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d3a9fa77-6ed0-42b7-98f2-a0b5812f2c2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "datasheets/E-Switches-EG-Series.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cca08a5e-9fce-4061-803c-1f09e74eacad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "SWITCH SLIDE DP3T 200MA 30V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fcbc028c-d683-47ee-b252-e60b0e8baf6c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "E-Switch"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f58c3957-f06c-4b1d-bba6-36ef99060324")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "EG2315"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dde5bc1e-b4d4-4bac-b061-c2a5d4940cca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DKPN" "EG1913-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d640803e-f4cc-4c83-a32a-7c82a2b48256")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -6.3 3.4)
+		(end 6.3 -3.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "17e133c6-c860-4a08-95ea-3f0cde15d691")
+	)
+	(fp_rect
+		(start -3.5 3.4)
+		(end -0.5 6.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "8dbe9fcf-24f1-4689-b072-2db9218df4f2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d62d9666-a0d4-4697-bb4c-8457a38e0b33")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.05)
+			)
+		)
+	)
+	(pad "" thru_hole circle
+		(at -6.1 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "391cfebf-2fbe-4989-87cd-82e829dd9db1")
+	)
+	(pad "" thru_hole circle
+		(at 6.1 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "86e21215-46fb-4f6a-a481-75fdf09e40c7")
+	)
+	(pad "1" thru_hole circle
+		(at -4 1.25)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6947d587-5a39-461d-a676-8a7a741045a6")
+	)
+	(pad "2" thru_hole circle
+		(at 0 1.25)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8248df27-b3b5-4e41-ad4d-ea83b0bc37bf")
+	)
+	(pad "3" thru_hole circle
+		(at 2 1.25)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a76fd541-807c-4010-8f8a-6ee364149f34")
+	)
+	(pad "4" thru_hole circle
+		(at 4 1.25)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "72db2791-6ba1-4f35-ab86-4b23a91e4b19")
+	)
+	(pad "5" thru_hole circle
+		(at -4 -1.25)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1a10cc02-44c8-49c7-a89f-0f0f2015ec3d")
+	)
+	(pad "6" thru_hole circle
+		(at 0 -1.25)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "035ec885-e2c8-40b7-836f-7eb10c420bfd")
+	)
+	(pad "7" thru_hole circle
+		(at 2 -1.25)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1fb3ee0d-dba9-4a5a-899e-763cb260d31a")
+	)
+	(pad "8" thru_hole circle
+		(at 4 -1.25)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "006782ca-3cd2-46bf-abfe-6c24a4972ce1")
+	)
+	(model "${KIPRJMOD}/lib_3D/EG2315.stp"
+		(offset
+			(xyz 0 0 -3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

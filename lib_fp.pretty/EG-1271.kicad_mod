@@ -1,0 +1,202 @@
+(footprint "EG-1271"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 3.4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4491af54-014a-4175-88b2-3d30c93ac685")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "EG1271"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7b52c87d-3230-43fc-82a3-6118fb1594c4")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.05)
+			)
+		)
+	)
+	(property "Footprint" "DSE-Switches:EG-1271"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "64b7b250-40c0-4ced-88e0-69bae30dfc2a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "datasheets/E-Switches-EG-Series"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "adbfa119-544c-449d-8c82-6021b6ee061c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "SWITCH SLIDE SPDT 300MA 30V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "670a8272-e916-4a12-912a-d9d4be5f384c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "E-Switch"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3d74fa63-ba86-486b-a7ff-7a498057e7bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "EG1271"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ab6e71e3-8c10-4223-b8c4-057c01c2ce50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DKPN" "EG1918-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ae152d5-df1a-4628-875b-e2f5291f8250")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -4.25 1.75)
+		(end 4.25 -1.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "0b4e9259-67f0-4b8c-809f-747f61f1f4c2")
+	)
+	(fp_rect
+		(start -2 -1)
+		(end 0 1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "ad0907e2-80c8-40ad-b858-0640397c05cb")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "68641257-308c-4af1-9c02-4c004bb0fba9")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.05)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -2.5 -1.6)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2e902b2d-4974-428e-80c0-f055b2ee7f09")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -1.6)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d4c589a3-67bd-43d5-b244-31ba47637a3d")
+	)
+	(pad "3" thru_hole circle
+		(at 2.5 -1.6)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c35e28de-5792-45e1-a901-75a880cc4249")
+	)
+	(pad "4" thru_hole circle
+		(at -2.5 1.6)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "074c5bc7-779b-4eee-8e88-cf8288017a53")
+	)
+	(pad "5" thru_hole circle
+		(at 0 1.6)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9773e369-fde7-4fce-b4fe-9a49007d9457")
+	)
+	(pad "6" thru_hole circle
+		(at 2.5 1.6)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6363d873-08b3-4c09-962b-59fce9058443")
+	)
+	(model "${KIPRJMOD}/lib_3D/EG1271--3DModel-STEP-613395.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
