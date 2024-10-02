@@ -3496,7 +3496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ad8db7f-ae2b-438d-992c-b7bf1b0bd2cb")
-		(property "Reference" "R5"
+		(property "Reference" "R3"
 			(at 134.62 85.09 0)
 			(do_not_autoplace yes)
 			(effects
@@ -3609,7 +3609,7 @@
 		(instances
 			(project "breadboard-power-supply"
 				(path "/b84480f7-2a4a-488c-b5cb-7253df0ad470"
-					(reference "R5")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -4190,7 +4190,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "676929df-954a-4419-8770-9aa73a2eb68f")
-		(property "Reference" "D4"
+		(property "Reference" "D3"
 			(at 190.5 70.866 0)
 			(do_not_autoplace yes)
 			(effects
@@ -4302,7 +4302,7 @@
 		(instances
 			(project ""
 				(path "/b84480f7-2a4a-488c-b5cb-7253df0ad470"
-					(reference "D4")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -5210,7 +5210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "datasheets/E-Switches-EG-Series"
+		(property "Datasheet" "datasheets/E-Switch-EG-Series.pdf"
 			(at 96.52 74.93 0)
 			(effects
 				(font
@@ -5647,7 +5647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "datasheets/E-Switches-EG-Series.pdf"
+		(property "Datasheet" "datasheets/E-Switch-EG-Series.pdf"
 			(at 115.57 69.85 0)
 			(effects
 				(font
@@ -5762,7 +5762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "datasheets/E-Switches-EG-Series.pdf"
+		(property "Datasheet" "datasheets/E-Switch-EG-Series.pdf"
 			(at 127 139.7 0)
 			(effects
 				(font

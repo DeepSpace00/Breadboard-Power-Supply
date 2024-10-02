@@ -506,7 +506,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "/home/deepspace/Documents/Repositories/DeepSpace00/breadboard-power-supply/exports/breadboard-power-supply.csv",
+    "bom_export_filename": "/exports/breadboard-power-supply.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
