@@ -426,7 +426,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "c2910df1-8789-4193-bbae-0effb879f0e9")
 	)
-	(model "${KIPRJMOD}/lib_3D/DCY0004A.stp"
+	(model "${KIPRJMOD}/libraries/3d_models/DCY0004A.stp"
 		(offset
 			(xyz 0 0 0)
 		)

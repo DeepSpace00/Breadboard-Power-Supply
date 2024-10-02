@@ -220,7 +220,7 @@
 		(remove_unused_layers no)
 		(uuid "006782ca-3cd2-46bf-abfe-6c24a4972ce1")
 	)
-	(model "${KIPRJMOD}/lib_3D/EG2315.stp"
+	(model "${KIPRJMOD}/libraries/3d_models/EG2315.stp"
 		(offset
 			(xyz 0 0 -3)
 		)

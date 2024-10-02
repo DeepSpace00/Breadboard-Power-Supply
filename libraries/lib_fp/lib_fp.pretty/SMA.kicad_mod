@@ -452,9 +452,9 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "3f8fb844-8562-4efd-a4c8-1f45e5f9642e")
 	)
-	(model "${KIPRJMOD}/lib_3D/SMA.stp"
+	(model "${KIPRJMOD}/libraries/3d_models/SMA.stp"
 		(offset
-			(xyz -2 4 -1.6)
+			(xyz -2 4.11 -1.6)
 		)
 		(scale
 			(xyz 1 1 1)

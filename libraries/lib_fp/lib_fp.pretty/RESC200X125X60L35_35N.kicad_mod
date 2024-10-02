@@ -416,7 +416,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "2d1ccf08-f25a-4b88-ac38-1657cfe69b4a")
 	)
-	(model "${KIPRJMOD}/lib_3D/CRCW0805.STEP"
+	(model "${KIPRJMOD}/libraries/3d_models/CRCW0805.STEP"
 		(offset
 			(xyz 0 0 0)
 		)
