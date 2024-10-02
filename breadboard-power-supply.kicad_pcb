@@ -9,7 +9,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Breadboard Power Supply")
-		(date "2024-09-29")
+		(date "2024-10-02")
 		(comment 2 "PROTOTYPE")
 		(comment 3 "2024")
 	)
@@ -124,9 +124,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "exports/gerbers/")
 		)
 	)
 	(net 0 "")
@@ -7644,7 +7644,7 @@
 		(layer "Edge.Cuts")
 		(uuid "fec308c0-ba34-477d-af75-75bf2f909d74")
 	)
-	(gr_text "2024-09-29"
+	(gr_text "2024-10-02"
 		(at 126.5 91 0)
 		(layer "B.SilkS")
 		(uuid "1afb24a9-a0b0-4186-9868-93364cddf82d")

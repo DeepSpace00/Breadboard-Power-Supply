@@ -1,0 +1,5 @@
+For 20 boards
+DigiKey, $105.71,
+OshPark, $86.10
+OshStencils, $10
+Per board, $10.09

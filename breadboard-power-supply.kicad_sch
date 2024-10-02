@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Breadboard Power Supply")
-		(date "2024-09-29")
+		(date "2024-10-02")
 		(comment 2 "PROTOTYPE")
 		(comment 3 "2024")
 	)
