@@ -188,7 +188,7 @@
 		)
 		(comment "Comment 1")
 	)
-	(tbtext "© Madison Gleydura ${COMMENT3}"
+	(tbtext "© Madison Gleydura. ${COMMENT3}"
 		(name "")
 		(pos 100.012 27.94)
 		(font
