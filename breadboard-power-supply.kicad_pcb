@@ -126,7 +126,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "exports/gerbers/")
+			(outputdirectory "manufacturing/fabrication/gerbers/")
 		)
 	)
 	(net 0 "")
@@ -7661,7 +7661,7 @@
 		(layer "Edge.Cuts")
 		(uuid "fec308c0-ba34-477d-af75-75bf2f909d74")
 	)
-	(gr_text "2024-10-02"
+	(gr_text "2024-10-14"
 		(at 126.5 91 0)
 		(layer "B.SilkS")
 		(uuid "1afb24a9-a0b0-4186-9868-93364cddf82d")
