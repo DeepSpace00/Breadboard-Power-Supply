@@ -9,7 +9,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Breadboard Power Supply")
-		(date "2024-10-02")
+		(date "2024-10-14")
 		(comment 2 "PROTOTYPE")
 		(comment 3 "2024")
 	)
@@ -7679,9 +7679,8 @@
 		(uuid "3232f6eb-3e5e-49b5-8fb3-6973e2a04863")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.1)
-				(bold yes)
+				(size 0.75 0.75)
+				(thickness 0.12)
 			)
 			(justify mirror)
 		)
@@ -7712,7 +7711,7 @@
 	)
 	(gr_text "VIN: 8V-18V\nImax: 200mA"
 		(at 126.5 114 0)
-		(layer "B.SilkS")
+		(layer "B.SilkS" knockout)
 		(uuid "a7a4bf6c-ef95-4936-8cc5-0bb0f1a8b30b")
 		(effects
 			(font
