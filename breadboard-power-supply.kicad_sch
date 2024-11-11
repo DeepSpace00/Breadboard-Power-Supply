@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Breadboard Power Supply")
-		(date "2024-10-02")
+		(date "2024-11-11")
 		(comment 2 "PROTOTYPE")
 		(comment 3 "2024")
 	)
@@ -2929,7 +2929,7 @@
 		)
 		(uuid "d37acaa4-c608-4092-88e2-42c848693e8e")
 	)
-	(text_box "Vref=1.25V\nR1=240R\nI_adj=50uA\nVo=Vref*(1+R2/R1)+(I_adj*R2)\nR2=(Vo*R1 - Vref*R1)/(Vref+I_adj*R1)"
+	(text_box "Vref=1.25V\nR1=240R\nI_adj=50uA\nVo=Vref*(1+R2/R1)+(I_adj*R2)-Vf_D3\nVf_D3 =250mV"
 		(exclude_from_sim no)
 		(at 90.17 101.6 0)
 		(size 40.64 11.43)
