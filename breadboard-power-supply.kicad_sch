@@ -3001,7 +3001,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "240R"
+		(property "Value" "280R"
 			(at 162.56 76.2 0)
 			(do_not_autoplace yes)
 			(effects
@@ -3029,7 +3029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 280 OHM 1% 1/8W 0805"
 			(at 161.29 77.47 0)
 			(effects
 				(font
@@ -3047,7 +3047,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW0805240RFKEA"
+		(property "MPN" "CRCW0805280RFKEA"
 			(at 161.29 74.93 0)
 			(effects
 				(font
@@ -3056,7 +3056,7 @@
 				(hide yes)
 			)
 		)
-		(property "DKPN" "541-240CCT-ND"
+		(property "DKPN" "541-280CCT-ND"
 			(at 161.29 77.47 0)
 			(effects
 				(font
@@ -3506,7 +3506,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "464R"
+		(property "Value" "887R"
 			(at 134.62 86.36 0)
 			(do_not_autoplace yes)
 			(effects
@@ -3534,7 +3534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 887 OHM 1% 1/8W 0805"
 			(at 133.35 87.63 0)
 			(effects
 				(font
@@ -3552,7 +3552,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW0805464RFKEA"
+		(property "MPN" "CRCW0805887RFKEA"
 			(at 133.35 85.09 0)
 			(effects
 				(font
@@ -3561,7 +3561,7 @@
 				(hide yes)
 			)
 		)
-		(property "DKPN" "541-464CCT-ND"
+		(property "DKPN" "541-887CCT-ND"
 			(at 133.35 87.63 0)
 			(effects
 				(font
@@ -4071,7 +4071,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "787R"
+		(property "Value" "510R"
 			(at 127 86.36 0)
 			(do_not_autoplace yes)
 			(effects
@@ -4099,7 +4099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 510 OHM 1% 1/8W 0805"
 			(at 125.73 87.63 0)
 			(effects
 				(font
@@ -4117,7 +4117,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW0805787RFKEA"
+		(property "MPN" "CRCW0805510RFKEA"
 			(at 125.73 85.09 0)
 			(effects
 				(font
@@ -4126,7 +4126,7 @@
 				(hide yes)
 			)
 		)
-		(property "DKPN" "541-787CCT-ND"
+		(property "DKPN" "541-510CCT-ND"
 			(at 125.73 87.63 0)
 			(effects
 				(font

@@ -314,16 +314,16 @@
 		)
 	)
 	(pad "1" smd rect
-		(at -2 0)
-		(size 2.5 1.7)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "f61ac24d-079f-4f1b-a1ed-f71b6c439905")
-	)
-	(pad "2" smd rect
 		(at 2 0)
 		(size 2.5 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "3f8fb844-8562-4efd-a4c8-1f45e5f9642e")
+	)
+	(pad "2" smd rect
+		(at -2 0)
+		(size 2.5 1.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f61ac24d-079f-4f1b-a1ed-f71b6c439905")
 	)
 	(model "${KIPRJMOD}/libraries/3d_models/SMA.stp"
 		(offset
